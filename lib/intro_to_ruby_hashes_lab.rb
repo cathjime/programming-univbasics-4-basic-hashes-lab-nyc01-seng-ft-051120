@@ -6,7 +6,7 @@ end
 def my_hash
   new_hash = {
     :jack => "and jill", 
-    
+    :went => "up the hill"
   }
 end
 
