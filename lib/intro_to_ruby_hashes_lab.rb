@@ -4,14 +4,14 @@ def new_hash
 end
 
 def my_hash
-  new_hash = {
+  my_hash = {
     :jack => "and jill", 
     :went => "up the hill"
   }
 end
 
 def pioneer
-  g_h = {
+  pioneer = {
     :name => "Grace Hopper"
   }
 end
